@@ -1,4 +1,4 @@
-import math.Model;
+import model.Model;
 import math.FindNormals;
 import objreader.ObjReader;
 import math.Vector3f;

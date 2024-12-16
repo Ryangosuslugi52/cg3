@@ -1,4 +1,7 @@
-package math;
+package model;
+
+import math.Vector2f;
+import math.Vector3f;
 
 import java.util.ArrayList;
 

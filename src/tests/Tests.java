@@ -12,8 +12,8 @@ import org.junit.jupiter.params.provider.ValueSource;
 
 import math.Vector3f;
 import math.FindNormals;
-import math.Model;
-import math.Polygon;
+import model.Model;
+import model.Polygon;
 import objreader.ObjReader;
 
 class Tests {

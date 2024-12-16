@@ -1,5 +1,8 @@
 package math;
 
+import model.Model;
+import model.Polygon;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;

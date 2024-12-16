@@ -6,8 +6,8 @@ import java.util.Scanner;
 
 import math.Vector2f;
 import math.Vector3f;
-import math.Model;
-import math.Polygon;
+import model.Model;
+import model.Polygon;
 
 public class ObjReader {
 
