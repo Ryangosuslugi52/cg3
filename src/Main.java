@@ -11,7 +11,7 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
         try {
-            String fileContent = Files.readString(Path.of("C:\\Users\\PDS\\IdeaProjects\\CG3\\src\\WrapHead.obj"));
+            String fileContent = Files.readString(Path.of("C:\\Users\\PDS\\IdeaProjects\\CG3\\src\\ImageToStl.com_bad_piggies_2_ross.obj"));
 
             Model model = ObjReader.read(fileContent);
 
