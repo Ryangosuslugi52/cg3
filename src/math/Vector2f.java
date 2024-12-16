@@ -68,7 +68,6 @@ public class Vector2f implements Vector<Vector2f> {
 		float invLength = 1 / length;
 		return this.multiply(invLength);
 	}
-	// eigen посмотреть библиотеку для названий
 
 	public static float dotProduct(Vector2f v1, Vector2f v2) {
 		return v1.x * v2.x + v1.y * v2.y;
